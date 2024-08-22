@@ -1,4 +1,5 @@
 # blog-app-nodejs-mysql
+<img src="capture/capture.png">
 # Blog Application
 
 This is a simple blog application built using Node.js, Express, Sequelize, and MySQL. The application allows users to create, view, and manage blog posts with support for thumbnails.
